@@ -1,0 +1,9 @@
+# nacos 2.0 以后 配置文件需要修改为
+#  spring.cloud.nacos.discovery.*的配置应该放置到application.yml/properties中。
+#  spring.cloud.nacos.config.*的配置应该放置到bootstrap.yml/properties中
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        service: @artifactId@

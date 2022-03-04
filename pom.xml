@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.jane</groupId>
+    <artifactId>GeneralMall</artifactId>
+    <version>0.0.1</version>
+    <name>generalMall</name>
+    <description>通用商城微服务</description>
+    <packaging>pom</packaging>
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <spring.cloud.version>2021.0.1</spring.cloud.version>
+        <spring.cloud.alibaba.version>2021.0.1.0</spring.cloud.alibaba.version>
+    </properties>
+
+    <parent>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <groupId>org.springframework.boot</groupId>
+        <version>2.6.2</version>
+    </parent>
+
+    <modules>
+        <module>nacos</module>
+        <module>mall</module>
+        <module>distribution</module>
+        <module>gateway</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <!--需要根据org.springframework.boot的版本来确定，spring-cloud-dependencies和spring-cloud-alibaba-dependencies的版本-->
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring.cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>${spring.cloud.alibaba.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-starter-bootstrap</artifactId>
+            </dependency>
+
+            <dependency>
+                <groupId>com.jane</groupId>
+                <artifactId>gateway</artifactId>
+            </dependency>
+            <dependency>
+                <groupId>com.jane</groupId>
+                <artifactId>nacos</artifactId>
+            </dependency>
+            <dependency>
+                <groupId>com.jane</groupId>
+                <artifactId>mall</artifactId>
+            </dependency>
+            <dependency>
+                <groupId>com.jane</groupId>
+                <artifactId>distribution</artifactId>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>

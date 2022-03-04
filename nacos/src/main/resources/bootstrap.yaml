@@ -1,0 +1,17 @@
+server:
+  port: 8099
+spring:
+  application:
+    name:  @artifactId@
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        ext-config[0]:
+          refresh: true
+          data-id: ${spring.application.name}.yaml
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *

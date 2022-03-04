@@ -1,0 +1,17 @@
+server:
+  port: 8090
+spring:
+  application:
+    name:  @artifactId@
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: 127.0.0.1:8848
+        group: DEFAULT_GROUP
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
