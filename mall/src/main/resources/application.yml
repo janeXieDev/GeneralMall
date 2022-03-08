@@ -1,9 +1,24 @@
 # nacos 2.0 以后 配置文件需要修改为
 #  spring.cloud.nacos.discovery.*的配置应该放置到application.yml/properties中。
 #  spring.cloud.nacos.config.*的配置应该放置到bootstrap.yml/properties中
+server:
+  port: 8070
 spring:
+  main:
+    allow-circular-references: true
   cloud:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
         service: @artifactId@
+    #Seata分布式事务配置(AT模式)
+seata:
+  enabled: true
+  enable-auto-data-source-proxy: true
+  data-source-proxy-mode: AT
+  application-id: @artifactId@
+  tx-service-group: mall
+  service:
+    vgroup-mapping.mall: seata-server
+    grouplist.seata-server: 127.0.0.1:8091
+
