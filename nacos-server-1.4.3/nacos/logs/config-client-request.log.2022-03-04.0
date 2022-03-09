@@ -1,0 +1,5 @@
+2022-03-04 16:35:09,071|58|true|192.168.0.122|publish|gateway.yaml|DEFAULT_GROUP||107bfdca535ba3ded6a43f6f43290e38|null
+2022-03-04 16:48:37,328|84|true|192.168.0.122|publish|gateway.yaml|DEFAULT_GROUP||e5a5271cbc04f93d1e56c2dc6390b51c|null
+2022-03-04 17:48:37,793|13|true|192.168.0.122|publish|gateway-dev.yaml|DEFAULT_GROUP||bbb9e750df835db1ee59109e7884bdf1|null
+2022-03-04 17:49:01,235|57|true|192.168.0.122|remove|gateway.yaml|DEFAULT_GROUP||null|null
+2022-03-04 18:08:52,929|6|true|192.168.0.122|publish|gateway-dev.yaml|DEFAULT_GROUP||8923f0ae0f1908eb19bf7ba51d7c75ee|null
