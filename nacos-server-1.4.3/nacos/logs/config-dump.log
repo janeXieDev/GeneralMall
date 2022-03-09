@@ -1,0 +1,10 @@
+2022-03-09 10:33:02,439 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1646388532923, length=756, md5=8923f0ae0f1908eb19bf7ba51d7c75ee
+
+2022-03-09 10:33:02,440 INFO [dump-all-ok] mall-dev.yaml+DEFAULT_GROUP, 1646735220740, length=434, md5=8eb573d043122d82d16f15e3226c3c5b
+
+2022-03-09 10:33:02,440 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1646735783298, length=2813, md5=d028ff880ae97c4636e4ec63b62d2afe
+
+2022-03-09 10:33:02,441 INFO [dump-all-ok] service.vgroupMapping.mall+SEATA_GROUP, 1646736112093, length=12, md5=5088bc0815bb2d135ef7dde6059590a1
+
+2022-03-09 10:34:09,285 INFO [dump-task] add task. groupKey=seataServer.properties+SEATA_GROUP, taskKey=seataServer.properties+SEATA_GROUP++false+null
+

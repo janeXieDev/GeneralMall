@@ -1,0 +1,10 @@
+2022-03-04 16:35:09,185 INFO [dump-task] add task. groupKey=gateway.yaml+DEFAULT_GROUP, taskKey=gateway.yaml+DEFAULT_GROUP++false+null
+
+2022-03-04 16:48:37,335 INFO [dump-task] add task. groupKey=gateway.yaml+DEFAULT_GROUP, taskKey=gateway.yaml+DEFAULT_GROUP++false+null
+
+2022-03-04 17:48:37,813 INFO [dump-task] add task. groupKey=gateway-dev.yaml+DEFAULT_GROUP, taskKey=gateway-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-04 17:49:01,242 INFO [dump-task] add task. groupKey=gateway.yaml+DEFAULT_GROUP, taskKey=gateway.yaml+DEFAULT_GROUP++false+null
+
+2022-03-04 18:08:52,946 INFO [dump-task] add task. groupKey=gateway-dev.yaml+DEFAULT_GROUP, taskKey=gateway-dev.yaml+DEFAULT_GROUP++false+null
+

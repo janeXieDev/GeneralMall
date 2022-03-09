@@ -1,0 +1,18 @@
+2022-03-04 16:24:39,235 INFO Current addressing mode selection : AddressServerMemberLookup
+
+2022-03-04 16:24:49,555 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2022-03-04 16:24:49,556 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2022-03-04 16:24:49,556 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2022-03-04 16:24:49,557 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2022-03-04 16:24:49,557 ERROR [serverlist] exception, error : caused: jmenv.tbsite.net;
+
+2022-03-04 16:27:32,895 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2022-03-04 16:27:32,903 WARN [serverlist] updated to : [Member{ip='192.168.0.122', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2022-03-04 16:27:37,403 INFO This node is ready to provide external services
+

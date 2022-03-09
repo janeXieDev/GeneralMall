@@ -1,0 +1,42 @@
+2022-03-08 14:49:09,703 INFO [dump-all-ok] gateway-dev.yaml+DEFAULT_GROUP, 1646388532923, length=756, md5=8923f0ae0f1908eb19bf7ba51d7c75ee
+
+2022-03-08 15:30:27,526 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 15:38:05,817 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 15:43:04,479 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 15:46:37,971 INFO [dump-task] add task. groupKey=seataServer.properties+SEATA_GROUP, taskKey=seataServer.properties+SEATA_GROUP++false+null
+
+2022-03-08 16:23:05,110 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:24:57,015 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:27:31,240 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:27:44,999 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:33:15,680 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:33:42,575 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:33:52,721 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:38:03,050 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 16:38:03,122 WARN [dump-ignore] ignore to save cache file. groupKey=mall-dev.yaml+DEFAULT_GROUP, md5=5de840346f0be907769ba21ba2cb380a, lastModifiedOld=1646728432712, lastModifiedNew=1646728683041
+
+2022-03-08 16:40:01,933 INFO [dump-task] add task. groupKey=seataServer.properties+SEATA_GROUP, taskKey=seataServer.properties+SEATA_GROUP++false+null
+
+2022-03-08 18:09:30,042 INFO [dump-task] add task. groupKey=seataServer.properties+SEATA_GROUP, taskKey=seataServer.properties+SEATA_GROUP++false+null
+
+2022-03-08 18:25:49,993 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 18:27:00,750 INFO [dump-task] add task. groupKey=mall-dev.yaml+DEFAULT_GROUP, taskKey=mall-dev.yaml+DEFAULT_GROUP++false+null
+
+2022-03-08 18:36:23,308 INFO [dump-task] add task. groupKey=seataServer.properties+SEATA_GROUP, taskKey=seataServer.properties+SEATA_GROUP++false+null
+
+2022-03-08 18:38:27,032 INFO [dump-task] add task. groupKey=service.vgroupMapping.mall+SEATA_GROUP, taskKey=service.vgroupMapping.mall+SEATA_GROUP++false+null
+
+2022-03-08 18:41:52,106 INFO [dump-task] add task. groupKey=service.vgroupMapping.mall+SEATA_GROUP, taskKey=service.vgroupMapping.mall+SEATA_GROUP++false+null
+

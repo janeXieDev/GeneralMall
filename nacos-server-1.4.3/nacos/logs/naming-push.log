@@ -1,0 +1,18 @@
+2022-03-09 10:34:27,764 INFO SEATA_GROUP@@seata-server is changed, add it to push queue.
+
+2022-03-09 10:34:52,981 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-03-09 10:34:52,987 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.122:54029, agent: Nacos-Java-Client:v1.4.2, key: 192.168.0.122,54029,1369771668743500
+
+2022-03-09 10:34:52,987 INFO send udp packet: 192.168.0.122,54029,1369771668743500
+
+2022-03-09 10:34:52,995 INFO received ack: {"type": "push-ack", "lastRefTime":"1369771668743500", "data":""} from: 192.168.0.122:54029, cost: 8 ms, unacked: 0, total push: 1
+
+2022-03-09 10:38:02,644 INFO DEFAULT_GROUP@@mall is changed, add it to push queue.
+
+2022-03-09 10:38:02,644 INFO serviceName: DEFAULT_GROUP@@mall changed, schedule push for: 192.168.0.122:64967, agent: Nacos-Java-Client:v1.4.2, key: 192.168.0.122,64967,1369961331313800
+
+2022-03-09 10:38:02,644 INFO send udp packet: 192.168.0.122,64967,1369961331313800
+
+2022-03-09 10:38:02,649 INFO received ack: {"type": "push-ack", "lastRefTime":"1369961331313800", "data":""} from: 192.168.0.122:64967, cost: 5 ms, unacked: 0, total push: 2
+

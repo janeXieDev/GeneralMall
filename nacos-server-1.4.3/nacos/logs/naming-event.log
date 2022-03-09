@@ -1,0 +1,12 @@
+2022-03-09 10:34:26,753 INFO SEATA_GROUP@@seata-server {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.0.122:8091:unknown:default_1.0_true_false_default]
+
+2022-03-09 10:34:26,756 INFO [IP-UPDATED] namespace: public, service: SEATA_GROUP@@seata-server, ips: 192.168.0.122:8091_true,
+
+2022-03-09 10:34:51,974 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.122:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-03-09 10:34:51,974 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.122:8080_true,
+
+2022-03-09 10:38:01,629 INFO DEFAULT_GROUP@@mall {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.122:8070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-03-09 10:38:01,629 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@mall, ips: 192.168.0.122:8070_true,
+

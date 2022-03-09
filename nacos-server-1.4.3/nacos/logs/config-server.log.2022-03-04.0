@@ -1,0 +1,76 @@
+2022-03-04 16:20:21,860 INFO notifyConnectTimeout:200
+
+2022-03-04 16:20:21,889 INFO notifySocketTimeout:8000
+
+2022-03-04 16:20:21,889 INFO isHealthCheck:true
+
+2022-03-04 16:20:21,889 INFO maxHealthCheckFailCount:12
+
+2022-03-04 16:20:21,889 INFO maxContent:10485760
+
+2022-03-04 16:21:42,268 INFO notifyConnectTimeout:200
+
+2022-03-04 16:21:42,275 INFO notifySocketTimeout:8000
+
+2022-03-04 16:21:42,275 INFO isHealthCheck:true
+
+2022-03-04 16:21:42,276 INFO maxHealthCheckFailCount:12
+
+2022-03-04 16:21:42,276 INFO maxContent:10485760
+
+2022-03-04 16:24:31,810 INFO notifyConnectTimeout:200
+
+2022-03-04 16:24:31,835 INFO notifySocketTimeout:8000
+
+2022-03-04 16:24:31,835 INFO isHealthCheck:true
+
+2022-03-04 16:24:31,835 INFO maxHealthCheckFailCount:12
+
+2022-03-04 16:24:31,835 INFO maxContent:10485760
+
+2022-03-04 16:27:16,080 INFO notifyConnectTimeout:200
+
+2022-03-04 16:27:16,085 INFO notifySocketTimeout:8000
+
+2022-03-04 16:27:16,087 INFO isHealthCheck:true
+
+2022-03-04 16:27:16,087 INFO maxHealthCheckFailCount:12
+
+2022-03-04 16:27:16,087 INFO maxContent:10485760
+
+2022-03-04 16:27:21,862 INFO use local db service for init
+
+2022-03-04 16:27:27,877 WARN Lexical error at line 4, column 66.  Encountered: <EOF> after : "".
+
+2022-03-04 16:27:27,887 WARN Syntax error: Encountered "*" at line 1, column 1.
+
+2022-03-04 16:27:31,982 WARN Lexical error at line 4, column 13.  Encountered: "`" (96), after : "".
+
+2022-03-04 16:27:31,984 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2022-03-04 16:27:31,985 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2022-03-04 16:27:31,986 WARN Lexical error at line 1, column 13.  Encountered: "`" (96), after : "".
+
+2022-03-04 16:27:31,987 INFO use StandaloneDatabaseOperateImpl
+
+2022-03-04 16:27:34,651 WARN DumpService start
+
+2022-03-04 16:27:34,652 INFO start clear all config-info.
+
+2022-03-04 16:27:34,653 WARN clear all config-info failed.
+
+2022-03-04 16:27:34,653 WARN clear all config-info-tenant failed.
+
+2022-03-04 16:27:34,733 INFO start clear all config-info-beta.
+
+2022-03-04 16:27:34,733 WARN clear all config-info-beta failed.
+
+2022-03-04 16:27:34,733 WARN clear all config-info-beta-tenant failed.
+
+2022-03-04 16:27:34,747 INFO start clear all config-info-tag.
+
+2022-03-04 16:27:34,748 WARN clear all config-info-tag failed.
+
+2022-03-04 16:27:34,748 WARN clear all config-info-tag-tenant failed.
+

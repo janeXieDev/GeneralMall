@@ -1,0 +1,8 @@
+2022-03-09 10:33:13,530|192.168.0.122|seataServer.properties|SEATA_GROUP|null|unknown|1646735783298|pull|ok|57410232|127.0.0.1
+2022-03-09 10:33:14,279|192.168.0.122|store.publicKey|SEATA_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-03-09 10:34:09,186|192.168.0.122|seataServer.properties|SEATA_GROUP|null|null|1646793249031|192.168.0.122|persist|pub|-1|54c8b37e13463ddb1d38d2287aeabb22
+2022-03-09 10:34:09,306|192.168.0.122|seataServer.properties|SEATA_GROUP|null|null|1646793249031|192.168.0.122|notify|ok|269|192.168.0.122:8848
+2022-03-09 10:34:09,334|192.168.0.122|seataServer.properties|SEATA_GROUP|null|null|1646793249031|192.168.0.122|dump|ok|303|2813
+2022-03-09 10:34:24,523|192.168.0.122|seataServer.properties|SEATA_GROUP|null|unknown|1646793249031|pull|ok|15492|127.0.0.1
+2022-03-09 10:34:24,863|192.168.0.122|store.publicKey|SEATA_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-03-09 10:34:25,699|192.168.0.122|server.enableCheckAuth|SEATA_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
